@@ -20,7 +20,7 @@ API_ID = 25018366
 API_HASH = "03194f91ff9af028447f66c0d62e7e77"
 STRING_SESSION = ""
 BOT_TOKEN = "7241796201:AAFdkTbfYUAsUpBQjUsvsTsxa8qh9FwvK-Y"
-MONGODB_CONNECTION_STRING = "Cluster0:ludlux@cluster0.svi0suh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGODB_CONNECTION_STRING = "mongodb+srv://Cluster0:ludlux@cluster0.svi0suh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 OWNER_ID = 7333826463
 
 # Create a Pyrogram Client
